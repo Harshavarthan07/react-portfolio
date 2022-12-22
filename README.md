@@ -1,4 +1,4 @@
-# Netlify is used for Hosting
+# Hosted on Netlify
 
 https://thunderous-lokum-60f3a2.netlify.app
 
